@@ -1,4 +1,4 @@
-# Hi 👋, I am Benard Kipngeno!
+# Hi 👋, I am Jayrus Kiprotich!
 
 ### Welcome to my GitHub profile 🙏🏼
 
@@ -8,43 +8,40 @@
   <img src="https://github.com/Bernado6/Bernado6/blob/main/Images/Icons/Ben-modified.png" width="200px" height="200px">
 </p> -->
 
-### AI/ML Engineer | Data Scientist | Cloud Engineer ->  MLOps | BigData | DevOps| GenAI 
+### Full-Stack Developer | Cloud & DevOps Enthusiast | Scalable Systems | API Development | Automation 
 
-*AI/ML Engineer with expertise in Data Science, Cloud Engineering, and MLOps, focusing on integrating Big Data, DevOps, and GenAI to drive impactful solutions. With a robust background in machine learning, data pipelines, and cloud platforms like AWS, specialized in building scalable, efficient, and secure MLOps frameworks. I have robust experience in enterprise-level GenAI deployment, optimizing cost leadership strategies, and implementing data quality measures within MLOps infrastructures. I guide and and mentor AI/ML Enthusiasts, actively contributing to advancing AI and cloud solutions across multiple industries*
+*Software Engineer with strong expertise in designing, developing, and maintaining scalable software solutions across diverse environments. Skilled in full-stack development, cloud computing, and DevOps practices, with a focus on building reliable, secure, and high-performance applications. Experienced in developing RESTful APIs, optimizing system performance, and implementing CI/CD pipelines to streamline software delivery. Proficient in modern development frameworks and cloud platforms, with a passion for writing clean, maintainable code and solving complex engineering challenges. I actively collaborate with cross-functional teams, mentor aspiring developers, and contribute to building innovative solutions that drive business value and technological advancement.*
 
 ---
 ### Profile Summary
 
-As an Machine Learning Engineer with extensive experience in Cloud and DevOps, I am passionate about leveraging data and technology to drive business outcomes. I have a strong background in data analytics, Statistics, and machine learning algorithms, and I am skilled in developing end-to-end data solutions that deliver insights and value to stakeholders.
+As a Software Engineer with extensive experience in modern development practices, I am passionate about leveraging technology to build efficient, scalable, and reliable software solutions. I have a strong background in software design, system architecture, and application development, and I am skilled in developing end-to-end solutions that deliver value to users and stakeholders. I focus on writing clean, maintainable code and continuously improving system performance to support business growth.
 <br><br>
-I have worked on a wide range of projects, including predictive modeling, natural language processing, image recognition, recommendation systems, and DevOps automation. I am comfortable working with large datasets and developing scalable, cloud-based solutions that can handle complex data processing and analysis.
+I have worked on a diverse range of projects, including backend systems, API development, automation tools, and scalable cloud-based applications. I am comfortable handling large datasets and building efficient systems capable of processing complex data workflows. My experience includes designing and developing robust solutions that ensure high performance, reliability, and seamless integration across different platforms.
 <br><br>
-In addition to my data science and machine learning expertise, I am proficient in AWS cloud technologies and have experience working with DevOps tools and practices. I have a deep understanding of cloud-based data architectures and deployment strategies, as well as the ability to design and implement continuous integration and deployment pipelines using AWS services like CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
-<br><br>
-As a collaborator and team player, I am committed to driving results and delivering high-quality work that meets the needs of my clients and stakeholders. I am always eager to learn and stay up-to-date with the latest data science, cloud, and DevOps technologies, and I enjoy sharing my knowledge and expertise with others.
+As a collaborative and team-oriented Software Engineer, I am committed to delivering high-quality solutions that meet the needs of clients and stakeholders. I value effective communication and teamwork, and I consistently focus on achieving results that align with project goals. I am also passionate about continuous learning and staying updated with emerging technologies in software development, cloud computing, and modern engineering practices.
 <b><b>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Bernado6tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 benardkipngenoyegon@gmail.com
+I am dedicated to building impactful software solutions, with a strong focus on software engineering, system design, and scalable application development. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Bernado6tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 jayruskirui@gmail.com
 
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benard-kipngeno)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Bernado6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jayrus-kiprotich-8344513b6/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jayruskirui)
 
 
 ---
 ## Domains of Interests & Expertise
 :comet: Statistics <br>
-:comet: Data Science <br>
-:comet: Machine Learning <br>
-:comet: Artificial Intelligence <br>
-:comet: Computer Vision <br>
-:comet: Deep Learning <br>
-:comet: Cloud Machine Learning Services<br>
-:comet: Generative Artificial Intelligence<br>
-:comet: MLOps <br>
-:comet: Cloud Data Analytics services<br>
-:comet: NLP
+:comet: API Design & Development (REST & Microservices)<br>
+:comet: Cloud Computing & Cloud-Native Applications<br>
+:comet: DevOps & CI/CD Automation<br>
+:comet: System Design & Software Architecture<br>
+:comet: Database Systems & Data Modeling<br>
+:comet: Distributed Systems<br>
+:comet: Performance Optimization & Scalability<br>
+:comet: Software Testing & Quality Assurance<br>
+:comet: Application Security Best Practices<br>
 
 ---
 ## Skills 
