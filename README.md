@@ -32,12 +32,11 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 
 ---
 ## Domains of Interests & Expertise
-:comet: Statistics <br>
 :comet: API Design & Development (REST & Microservices)<br>
 :comet: Cloud Computing & Cloud-Native Applications<br>
 :comet: DevOps & CI/CD Automation<br>
 :comet: System Design & Software Architecture<br>
-:comet: Database Systems & Data Modeling<br>
+:comet: Database Systems<br>
 :comet: Distributed Systems<br>
 :comet: Performance Optimization & Scalability<br>
 :comet: Software Testing & Quality Assurance<br>
@@ -50,20 +49,20 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 ### Languages, Libraries, Tools and Frameworks:<br>
 <br>
 <p align="center">
-    <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30">
-    <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
+    <!-- <img src="./Images/Icons/Python_logo_and_wordmark.svg.png" height="30"> -->
+    <!-- <img src="./Images/Icons/320px-NumPy_logo_2020.svg.png" height="30">
     <img src="./Images/Icons/Pandas_logo.svg.png" height="30">
     <img src="./Images/Icons/scikit-learn-logo-small.png" height="30">
     <img src="./Images/Icons/statsmodels-logo-v2.svg" height="30">
-    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
+    <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30"> -->
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
     <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
-    <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
-    <img src="./Images/Icons/seaborn_logo.svg" height="30">
-    <img src="./Images/Icons/Tensorflow_logo.png" height="30">
-    <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
+    <!-- <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30"> -->
+    <!-- <img src="./Images/Icons/Matplotlib_logo.svg" height="30"> -->
+    <!-- <img src="./Images/Icons/seaborn_logo.svg" height="30"> -->
+    <!-- <img src="./Images/Icons/Tensorflow_logo.png" height="30"> -->
+    <!-- <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30"> -->
     <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
     <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
     <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
@@ -72,8 +71,8 @@ I am dedicated to building impactful software solutions, with a strong focus on 
     <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
     <img src="./Images/Icons/Microsoft_Office_logo_(2019–present).svg" height="30">
     <img src="./Images/Icons/Microsoft_Office_Excel_(2019–present).svg.png" height="30">
-    <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
-    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30">
+    <!-- <img src="./Images/Icons/207px-Jupyter_logo.svg.png" height="30">
+    <img src="./Images/Icons/Google_Colaboratory_SVG_Logo.svg.png" height="30"> -->
     <!-- <img src="./Images/Icons/Heroku_logo.svg.png" height="30"> -->
   <br>
 </p>
