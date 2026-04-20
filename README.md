@@ -20,8 +20,8 @@ As a Software Engineer with extensive experience in modern development practices
 I have worked on a diverse range of projects, including backend systems, API development, automation tools, and scalable cloud-based applications. I am comfortable handling large datasets and building efficient systems capable of processing complex data workflows. My experience includes designing and developing robust solutions that ensure high performance, reliability, and seamless integration across different platforms.
 <br><br>
 As a collaborative and team-oriented Software Engineer, I am committed to delivering high-quality solutions that meet the needs of clients and stakeholders. I value effective communication and teamwork, and I consistently focus on achieving results that align with project goals. I am also passionate about continuous learning and staying updated with emerging technologies in software development, cloud computing, and modern engineering practices.
-<b><b>
-I am dedicated to building impactful software solutions, with a strong focus on software engineering, system design, and scalable application development. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Bernado6tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 jayruskirui@gmail.com
+<br><br>
+I am dedicated to building impactful software solutions, with a strong focus on software engineering, system design, and scalable application development. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/jayruskirui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 jayruskirui@gmail.com
 
 
 #### Professional Links:
@@ -93,20 +93,8 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
 ---
-### 📷 Image Processing
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5.5.0-brightgreen.svg)](https://opencv.org/)
-[![Scikit--image](https://img.shields.io/badge/Scikit--image-0.17.3-blue.svg)](https://scikit-image.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
----
-### 📊 Data Visualization
-
-[![Tableau](https://img.shields.io/badge/Tableau-2023.0-blue.svg)](https://www.tableau.com/products/desktop/download)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-4.0.0-orange.svg)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-1.2.0-red.svg)](https://seaborn.pydata.org/)
----
-### 🤖 ML/DL Frameworks
+### 🤖 FRONTEND/BACKEND Frameworks
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-orange.svg)](https://www.tensorflow.org/) 
 [![Keras](https://img.shields.io/badge/Keras-2.5.0-blue.svg)](https://keras.io/)
@@ -121,29 +109,7 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
 ---
-### 🤖 AI/ML Applications
 
-[![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
-[![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Regression_analysis)
-[![Clustering](https://img.shields.io/badge/Clustering-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Cluster_analysis)
-[![Image Classification](https://img.shields.io/badge/Image%20Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Image_classification)
-[![Object Detection](https://img.shields.io/badge/Object%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Object_detection)
-[![Face Detection](https://img.shields.io/badge/Face%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Face_detection)
-[![Image Captioning](https://img.shields.io/badge/Image%20Captioning-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Image_captioning) 
-[![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Anomaly_detection) 
-[![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Fraud_detection) 
-[![Object Tracking and Localization](https://img.shields.io/badge/Object%20Tracking%20and%20Localization-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Object_tracking) 
-[![Q-Learning](https://img.shields.io/badge/Q--Learning-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Q-learning) 
-[![DQN](https://img.shields.io/badge/DQN-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Deep_Q-network)
----
-### 📊 Data Science and ML
-
-[![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Data_wrangling)
-[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Data_cleaning)
-[![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Feature_engineering)
-[![Model Building and Evaluation](https://img.shields.io/badge/Model%20Building%20and%20Evaluation-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Model_selection)
----
 ### :cloud: AWS
 
 [![SageMaker](https://img.shields.io/badge/AWS-SageMaker-red.svg)](https://aws.amazon.com/sagemaker/)
