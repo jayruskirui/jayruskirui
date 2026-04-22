@@ -146,9 +146,9 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Benard Kipngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernado6&show_icons=true&theme=midnight-purple)
+![Benard Kipngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayruskirui&show_icons=true&theme=midnight-purple)
 <br> 
-![Snake animation](https://github.com/Bernado6/Bernado6/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Bernado6/Bernado6/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
