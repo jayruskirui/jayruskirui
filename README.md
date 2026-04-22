@@ -80,6 +80,8 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 ---
 ### 💻 Programming
 
+[![NPM Version](https://img.shields.io/npm/v/react)](https://react.dev/)
+
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
