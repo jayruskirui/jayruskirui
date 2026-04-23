@@ -158,6 +158,11 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 ### 📜 Miscellaneous
 
 [![Git](https://img.shields.io/badge/Git-v2.31.0-blue.svg)](https://git-scm.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 <!-- [![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) -->
 [![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/)
 <!-- [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/) -->
