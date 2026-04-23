@@ -82,6 +82,10 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 
 [![NPM Version](https://img.shields.io/npm/v/react)](https://react.dev/)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 [![Python](https://img.shields.io/badge/Python-3.9.4-blue.svg)](https://www.python.org/downloads/release/python-394/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.25.0-orange.svg)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green.svg)](https://pandas.pydata.org/)
@@ -146,9 +150,9 @@ I am dedicated to building impactful software solutions, with a strong focus on 
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Benard Kipngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayruskirui&show_icons=true&theme=midnight-purple)
+![Jayrus Kirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayruskirui&show_icons=true&theme=midnight-purple)
 <br> 
-<!-- ![Snake animation](https://github.com/Bernado6/Bernado6/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/jayruskirui/jayruskirui/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
